@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.2.1, created on 2024-05-20 14:39:45
+/* Smarty version 4.2.1, created on 2024-05-27 15:10:49
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_664bb511026bd4_88238020',
+  'unifunc' => 'content_6654f6d9cd3856_40431896',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_664bb511026bd4_88238020 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6654f6d9cd3856_40431896 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">
@@ -45,6 +45,146 @@ function content_664bb511026bd4_88238020 (Smarty_Internal_Template $_smarty_tpl)
   
 
 <div class="products">
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="http://localhost/prestashop_website/muebles-y-objetos-de-madera/6-mesita-hecha-de-madera.html" class="thumbnail product-thumbnail">
+              <img
+                src="http://localhost/prestashop_website/3-home_default/mesita-hecha-de-madera.jpg"
+                alt="Mesita hecha de madera"
+                loading="lazy"
+                data-full-size-image-url="http://localhost/prestashop_website/3-large_default/mesita-hecha-de-madera.jpg"
+                width="250"
+                height="250"
+              />
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Vista rápida
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="http://localhost/prestashop_website/muebles-y-objetos-de-madera/6-mesita-hecha-de-madera.html" content="http://localhost/prestashop_website/muebles-y-objetos-de-madera/6-mesita-hecha-de-madera.html">Mesita hecha de madera</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Precio">
+                                                  5,00 $
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="6" data-url="http://localhost/prestashop_website/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">Nuevo</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="0">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="http://localhost/prestashop_website/juguetes-y-juegos-artesanales/3-trompo-de-madera-tradicinal.html" class="thumbnail product-thumbnail">
+              <img
+                src="http://localhost/prestashop_website/2-home_default/trompo-de-madera-tradicinal.jpg"
+                alt="Trompo de madera tradicinal"
+                loading="lazy"
+                data-full-size-image-url="http://localhost/prestashop_website/2-large_default/trompo-de-madera-tradicinal.jpg"
+                width="250"
+                height="250"
+              />
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Vista rápida
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title"><a href="http://localhost/prestashop_website/juguetes-y-juegos-artesanales/3-trompo-de-madera-tradicinal.html" content="http://localhost/prestashop_website/juguetes-y-juegos-artesanales/3-trompo-de-madera-tradicinal.html">Trompo de madera tradicinal</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Precio">
+                                                  1,00 $
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="3" data-url="http://localhost/prestashop_website/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">Nuevo</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
             
 <div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
   <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="0">

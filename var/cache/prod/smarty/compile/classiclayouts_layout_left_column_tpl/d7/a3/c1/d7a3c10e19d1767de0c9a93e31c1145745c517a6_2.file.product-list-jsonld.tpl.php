@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.2.1, created on 2024-05-20 14:39:04
+/* Smarty version 4.2.1, created on 2024-05-27 14:58:28
   from 'C:\xampp\htdocs\prestashop_website\themes\classic\templates\_partials\microdata\product-list-jsonld.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_664bb4e8a136a0_25454080',
+  'unifunc' => 'content_6654f3f45097e8_10810813',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_664bb4e8a136a0_25454080 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6654f3f45097e8_10810813 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="application/ld+json">
   {

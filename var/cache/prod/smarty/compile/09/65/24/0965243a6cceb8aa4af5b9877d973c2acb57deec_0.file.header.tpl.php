@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.2.1, created on 2024-05-20 14:47:34
+/* Smarty version 4.2.1, created on 2024-05-27 14:02:14
   from 'C:\xampp\htdocs\prestashop_website\adminRoot\themes\default\template\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_664bb6e6ae8176_16254493',
+  'unifunc' => 'content_6654e6c6995ce6_09251187',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:nav.tpl' => 1,
   ),
 ),false)) {
-function content_664bb6e6ae8176_16254493 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6654e6c6995ce6_09251187 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\prestashop_website\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.explode.php','function'=>'smarty_modifier_explode',),));
 ?>
 <!DOCTYPE html>
@@ -501,7 +501,7 @@ if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['menuItem']->valu
 $_smarty_tpl->tpl_vars['menuItem']->do_else = false;
 $_smarty_tpl->tpl_vars['menuItem']->iteration++;
 $_smarty_tpl->tpl_vars['menuItem']->last = $_smarty_tpl->tpl_vars['menuItem']->iteration === $_smarty_tpl->tpl_vars['menuItem']->total;
-$__foreach_menuItem_38_saved = $_smarty_tpl->tpl_vars['menuItem'];
+$__foreach_menuItem_7_saved = $_smarty_tpl->tpl_vars['menuItem'];
 ?>
               <?php $_smarty_tpl->_assignInScope('menuItemProperties', $_smarty_tpl->tpl_vars['menuItem']->value->getProperties());?>
               <li class="<?php echo $_smarty_tpl->tpl_vars['menuItem']->value->getClass();?>
@@ -518,7 +518,7 @@ echo $_smarty_tpl->tpl_vars['menuItem']->value->getContent();?>
                 <p class="divider"></p>
               <?php }?>
             <?php
-$_smarty_tpl->tpl_vars['menuItem'] = $__foreach_menuItem_38_saved;
+$_smarty_tpl->tpl_vars['menuItem'] = $__foreach_menuItem_7_saved;
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 

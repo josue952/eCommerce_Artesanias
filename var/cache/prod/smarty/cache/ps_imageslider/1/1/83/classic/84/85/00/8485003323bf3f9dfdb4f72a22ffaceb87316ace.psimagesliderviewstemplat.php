@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.2.1, created on 2024-05-20 14:39:44
+/* Smarty version 4.2.1, created on 2024-05-27 14:14:08
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_664bb510b2f348_96245242',
+  'unifunc' => 'content_6654e9907a87c2_02086325',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_664bb510b2f348_96245242 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6654e9907a87c2_02086325 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover" data-touch="true">
     <ol class="carousel-indicators">
@@ -28,35 +28,20 @@ function content_664bb510b2f348_96245242 (Smarty_Internal_Template $_smarty_tpl)
           </ol>
     <ul class="carousel-inner" role="listbox" aria-label="Contenedor carrusel ">
               <li class="carousel-item active" role="option" aria-hidden="false">
-          <a href="https://www.prestashop-project.org">            <figure>
-              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1" loading="lazy" width="1110" height="340">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 1</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
+                      <figure>
+              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/28229846b30bd20fa4f44396bad4ad3f64ddfc20_imagen_2024-05-27_141138499.png" alt="" loading="lazy" width="1110" height="340">
                           </figure>
-          </a>        </li>
+                  </li>
               <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="https://www.prestashop-project.org">            <figure>
-              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2" loading="lazy" width="1110" height="340">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 2</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
+                      <figure>
+              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/9e5b2804e558fe0990eca261e1c52d1485235e73_imagen_2024-05-27_141205138.png" alt="" loading="lazy" width="1110" height="340">
                           </figure>
-          </a>        </li>
+                  </li>
               <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="https://www.prestashop-project.org">            <figure>
-              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3" loading="lazy" width="1110" height="340">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 3</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
+                      <figure>
+              <img src="http://localhost/prestashop_website/modules/ps_imageslider/images/9f35c57ece3019ef1d3c323dabeb0ea9391388f9_imagen_2024-05-27_141222811.png" alt="" loading="lazy" width="1110" height="340">
                           </figure>
-          </a>        </li>
+                  </li>
           </ul>
     <div class="direction" aria-label="Botones del carrusel">
       <a class="left carousel-control" href="#carousel" role="button" data-slide="prev" aria-label="Anterior">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.2.1, created on 2024-05-20 14:39:44
+/* Smarty version 4.2.1, created on 2024-05-27 15:04:50
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_664bb510e167c5_24878514',
+  'unifunc' => 'content_6654f572349f49_68186984',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,12 +18,12 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_664bb510e167c5_24878514 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6654f572349f49_68186984 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="custom-text">
-  <h2>Custom Text Block</h2>
-<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
-<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+  <h2>ARTESANIA &amp; CASA</h2>
+<p><b>¡En esta tienda encontraras todo tipo de artículos artesanales!</b></p>
+<p>Desde productos artesanales hechos de madera, porcelana, a mano y entre otros más.</p>
 </div>
 <?php }
 }
